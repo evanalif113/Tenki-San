@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "763003005982",
+    "firebase_url": "https://staklimjerukagung-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "staklimjerukagung",
+    "storage_bucket": "staklimjerukagung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763003005982:android:3f8e4d00a08b596412d20f",
+        "android_client_info": {
+          "package_name": "com.example.tenkisan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4r2f3eBHLs3GB58YYlmBh2x55VOAkoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
